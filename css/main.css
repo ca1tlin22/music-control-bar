@@ -29,6 +29,7 @@ body {
   text-align: center;
   color: #333;
 
+  padding-left: 56px;
   position: relative;
 }
 
@@ -89,7 +90,7 @@ body {
   font-size: .7rem;
 
   position: absolute;
-  left: 4rem;
+  left: .5rem;
   bottom: 1rem;
 }
 
@@ -97,7 +98,7 @@ body {
   font-size: .7rem;
 
   position: absolute;
-  right: .25rem;
+  right: 3.9rem;
   bottom: 1rem;
 }
 
