@@ -68,6 +68,8 @@ body {
   border: 0;
   background-color: #aaa;
 
+  position: absolute;
+  bottom: 0;
   width: 100%;
 }
 
